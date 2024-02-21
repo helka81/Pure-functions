@@ -6,8 +6,7 @@
   "scripts": {
     "test": "jest --coverage",
     "lint": "eslint .",
-    "lint:fix": "eslint . --fix",
-    "build": 
+    "lint:fix": "eslint . --fix"
   },
   "author": "",
   "license": "ISC",
